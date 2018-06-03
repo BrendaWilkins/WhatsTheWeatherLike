@@ -9,4 +9,4 @@ For this project, Python was used to create a script to visualize the weather of
 
 
 # Resources and API Datasets
-To accomplish the project https://pypi.org/project/citipy/ - citipy and https://openweathermap.org/ - OpenWeatherMap  was utilized.  
+To accomplish the project [citipy](https://pypi.org/project/citipy/) and [OpenWeatherMap](https://openweathermap.org/)  was utilized.  
