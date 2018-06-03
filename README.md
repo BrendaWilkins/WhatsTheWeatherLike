@@ -13,3 +13,15 @@ To accomplish the project [citipy](https://pypi.org/project/citipy/) and [OpenWe
 
 
 # Inspiring Visualizations
+
+Latitude vs. Cloudiness
+![Lat vs. Cloudiness](/images/City_Lat vs Cloudiness.png)
+
+Latitude vs. Humidity
+![Lat vs. Humidity](/images/City_Lat vs Humidity.png)
+
+Latitude vs. Temperature
+![Lat vs. Temperature](/images/City_Lat vs Temperature.png)
+
+Latitude vs. Wind Speed
+![Lat vs. Wind Speed](/images/City_Lat vs Wind Speed.png)
